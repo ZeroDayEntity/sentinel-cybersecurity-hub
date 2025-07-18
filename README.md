@@ -3,9 +3,9 @@
 An elite, all-in-one cybersecurity intelligence dashboard designed to provide live, actionable insights from leading security APIs, presented through a luxurious and intuitive interface. This project demonstrates skills in building modern web apps, integrating with external APIs, and leveraging AI for data analysis.
 
 📸 Screenshots
-![Sentinel Hub Dashboard Screenshot]
+![Sentinel Hub Dashboard Screenshot](https://github.com/ZeroDayEntity/sentinel-cybersecurity-hub/blob/main/screenshots/Screenshot%20(26414).png?raw=true)
 
-![Sentinel Hub AI Analysis Screenshot]
+![Sentinel Hub AI Analysis Screenshot](https://github.com/ZeroDayEntity/sentinel-cybersecurity-hub/blob/main/screenshots/Screenshot%20(26415).png?raw=true)
 
 ## ✨ Key Features
 Domain & IP Intelligence: Integrates with public information APIs to provide a comprehensive report on a target domain or IP.
