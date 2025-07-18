@@ -2,7 +2,7 @@
 
 An elite, all-in-one cybersecurity intelligence dashboard designed to provide live, actionable insights from leading security APIs, presented through a luxurious and intuitive interface. This project demonstrates skills in building modern web apps, integrating with external APIs, and leveraging AI for data analysis.
 
-📸 Screenshots
+## 📸 Screenshots
 ![Sentinel Hub Dashboard Screenshot](https://github.com/ZeroDayEntity/sentinel-cybersecurity-hub/blob/main/screenshots/Screenshot%20(26414).png?raw=true)
 
 ![Sentinel Hub AI Analysis Screenshot](https://github.com/ZeroDayEntity/sentinel-cybersecurity-hub/blob/main/screenshots/Screenshot%20(26415).png?raw=true)
